@@ -1,5 +1,10 @@
 # Changelog
 
+## AnkiDroid-MIA (v1.1.1)
+
+* Defaulted 'No Boosting/Penatlies' to off
+* Pass/Fail - Handle Keyboard Shortcuts as 'Pass' rather than ignoring them
+
 ## AnkiDroid-MIA (v1.1.0)
 
 * [Feature] Sticky Languages (Requires: Android N+ and GBoard) 
