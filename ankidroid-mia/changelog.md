@@ -1,5 +1,9 @@
 # Changelog
 
+## AnkiDroid-MIA (v1.1.3)
+
+* [Bugfix] Fixed Sync functionality
+
 ## AnkiDroid-MIA (v1.1.2)
 
 * [Bugfix] Removed unnecessary upgrade checks when app is updated.
