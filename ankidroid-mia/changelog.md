@@ -1,9 +1,13 @@
 # Changelog
 
+## AnkiDroid-MIA (v1.1.2)
+
+* [Bugfix] Removed unnecessary upgrade checks when app is updated.
+
 ## AnkiDroid-MIA (v1.1.1)
 
 * Defaulted 'No Boosting/Penatlies' to off
-* Pass/Fail - Handle Keyboard Shortcuts as 'Pass' rather than ignoring them
+* [Bugfix] Pass/Fail - Handle Keyboard Shortcuts as 'Pass' rather than ignoring them
 
 ## AnkiDroid-MIA (v1.1.0)
 
