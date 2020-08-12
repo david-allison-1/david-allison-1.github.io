@@ -2,13 +2,10 @@
 
 ## AnkiDroid-MIA v1.1.x
 
-#### v1.1.3
-
-* [Bugfix] Fixed Sync functionality
-
 #### v1.1.2
 
-* [Bugfix] Removed unnecessary upgrade checks when app is updated.
+* [Bugfix] Fixed Sync functionality
+* [Bugfix] Removed unnecessary upgrade checks on app update.
 
 #### v1.1.1
 
