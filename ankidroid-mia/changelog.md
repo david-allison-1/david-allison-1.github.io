@@ -2,8 +2,9 @@
 
 ## AnkiDroid-MIA v1.1.x
 
-#### v1.1.2
+#### v2.0.0
 
+* Major upgrade due to use of new signing key - requires uninstall and reinstall
 * [Bugfix] Fixed Sync functionality
 * [Bugfix] Removed unnecessary upgrade checks on app update.
 
