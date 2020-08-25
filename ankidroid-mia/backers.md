@@ -7,3 +7,5 @@ I'm incredibly thankful to my early backers, your support has been invaluable in
 * Adam \[[Patreon](https://www.patreon.com/user/creators?u=40439565)\]
 * RR R \[[Patreon](https://www.patreon.com/user?u=36825854)\]
 * lyosky \[[Patreon](https://www.patreon.com/user?u=40502988)\] 
+* Dylan Mellott \[[Patreon](https://www.patreon.com/user/creators?u=6660806)\]
+* Jared Boudreau \[[Patreon](https://www.patreon.com/user?u=3583384)\]
