@@ -10,6 +10,6 @@ I'm incredibly thankful to my early backers, your support has been invaluable in
 * lyosky \[[Patreon](https://www.patreon.com/user?u=40502988)\] 
 * Dylan Mellott \[[Patreon](https://www.patreon.com/user/creators?u=6660806)\]
 * Jared Boudreau \[[Patreon](https://www.patreon.com/user?u=3583384)\]
-* R \[[Patreon](https://www.patreon.com/user/creators?u=276786)\]
+* YumiBoxer \[[Patreon](https://www.patreon.com/user/creators?u=276786)\]
 * Jarred McCleese \[[Patreon](https://www.patreon.com/user/creators?u=33582299)\]
 * Jacob Harrington \[[Patreon](https://www.patreon.com/user/creators?u=11036033)\]
