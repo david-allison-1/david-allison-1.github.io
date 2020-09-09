@@ -13,3 +13,5 @@ I'm incredibly thankful to my early backers, your support has been invaluable in
 * YumiBoxer \[[Patreon](https://www.patreon.com/user/creators?u=276786)\]
 * Jarred McCleese \[[Patreon](https://www.patreon.com/user/creators?u=33582299)\]
 * Jacob Harrington \[[Patreon](https://www.patreon.com/user/creators?u=11036033)\]
+* Adam M \[[Patreon](https://www.patreon.com/user?u=3742978)\]
+* Saman Akbari \[[Patreon](https://www.patreon.com/user?u=42051171)\]
